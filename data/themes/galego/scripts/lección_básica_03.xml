@@ -22,7 +22,7 @@
        <img src="keyboard/space.png" x="200" y="160"/>
        <img src="keyboard/larrow.png" x="460" y="18"/>
        <img src="keyboard/esc.png" x="515" y="50"/>
-       <text align="center">¡Muy bien!</text>
+       <text align="center">Moi ben!</text>
        <text align="left"></text>
        <text align="center">Para voltar ao menú principal</text>
        <text align="center">preme ESPAZO</text>
