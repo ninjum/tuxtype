@@ -5,7 +5,7 @@
        <text align="center" y="300"> ¡PREME ESPAZO PARA COMEZAR A LECCIÓN!</text>
       <waitforinput/>
        </page>
-       <page title="a letra f" bgcolor="#3f7f3f">
+       <page title="A letra f" bgcolor="#3f7f3f">
        <img src="/keyboard/keyboard.png" x="45" y="220"/>
        <text align="center">neste exercicio imos a practicar coa letra f.</text>
        <text align="center">Para comezar preme na letra p</text>
